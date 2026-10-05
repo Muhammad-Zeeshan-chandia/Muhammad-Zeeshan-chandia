@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07101F"/>
+      <stop offset="100%" stop-color="#0A1D34"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#32A8FF"/>
+      <stop offset="100%" stop-color="#7C5CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <g opacity="0.5" stroke="#21486E" fill="none">
+    <path d="M780 40 C930 20, 1000 100, 1150 64" stroke-width="1.5"/>
+    <path d="M720 250 C850 170, 990 300, 1160 220" stroke-width="1.5"/>
+    <path d="M860 40 L930 105 L1030 75 L1110 145" stroke-width="1"/>
+    <circle cx="930" cy="105" r="7" fill="#32A8FF" stroke="none"/>
+    <circle cx="1030" cy="75" r="6" fill="#7C5CFF" stroke="none"/>
+    <circle cx="1110" cy="145" r="6" fill="#32A8FF" stroke="none"/>
+  </g>
+
+  <rect x="64" y="54" width="66" height="66" rx="16" fill="none" stroke="#32A8FF" stroke-width="2"/>
+  <text x="97" y="98" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="800">MZ</text>
+
+  <text x="64" y="160" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="800">Muhammad Zeeshan</text>
+  <text x="64" y="205" fill="#32A8FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">AI Automation Engineer · AI Engineer</text>
+  <text x="64" y="244" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">
+    Production AI agents, LLM systems, voice AI &amp; API-driven automation
+  </text>
+
+  <g transform="translate(64 270)">
+    <rect width="174" height="34" rx="17" fill="url(#accent)" opacity="0.14"/>
+    <text x="87" y="23" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">AI Agents · LLMs</text>
+    <rect x="188" width="143" height="34" rx="17" fill="url(#accent)" opacity="0.14"/>
+    <text x="259.5" y="23" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Python · APIs</text>
+    <rect x="345" width="160" height="34" rx="17" fill="url(#accent)" opacity="0.14"/>
+    <text x="425" y="23" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">n8n · Voice AI</text>
+  </g>
+
+  <g transform="translate(840 175)">
+    <text x="0" y="0" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">DELIVERY</text>
+    <text x="0" y="42" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">30+ projects</text>
+    <text x="0" y="77" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="800">250–300 workflows</text>
+    <text x="0" y="112" fill="#A8B3C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">US · UK · Europe</text>
+  </g>
+</svg>
